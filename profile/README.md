@@ -94,3 +94,28 @@ Hi 👋, Welcome to github "Praktikum Framework Pemrograman Web 5D 2022"
 - [GUNAWAN AJI MULYADI](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-4-gunawan-aji-mulyadi)
 - [JONATAN HUTAHAEAN](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-4-jonatan-hutahaean)
 - [M. RIO SULHAN ABDILLAH](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-4-m-rio-sulhan-abdillah)
+
+## 📙 Tugas 5
+
+- [ANDRIANI NURIAN](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-andriani-nurian)
+- [NUR FADHILAH AZ-HAARI](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-nur-fadhilah-az-haari)
+- [ADRIAN WIBISONO](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-adrian-wibisono)
+- [ARFAN RYO DARMAWAN](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-arfan-ryo-darmawan)
+- [FAIZ AGIL FIRMANSYAH](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-faiz-agil-firmansyah)
+- [M. YUSRIL REZA PRATAMA](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-m-yusril-reza-pratama)
+- [MIRZA MUHAMAD ALGHIVARY](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-mirza-muhamad-alghivary)
+- [MOHAMAD FAHRUL ALLAWY](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-mohamad-fahrul-allawy)
+- [MUHAMAD IQBAL FADHILAH](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-muhamad-iqbal-fadhilah)
+- [MUHAMAD KHOIRUL FAHMI](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-muhamad-khoirul-fahmi)
+- [MUHAMAD RIZKI DARMAWAN](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-muhamad-rizki-darmawan)
+- [MUHAMAD SIDQIH ARHINZA JULIANTARA](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-muhamad-sidqih-arhinza-juliantara)
+- [MUHAMMAD FIQRI FATURRIAN](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-muhammad-fiqri-faturrian)
+- [MUHAMMAD GIBRAN](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-muhammad-gibran)
+- [MUHAMMAD HARIS](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-muhammad-haris)
+- [MUHAMMAD NURFATHULLAH](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-muhammad-nurfathullah)
+- [OCTAVIA SALWA DZAKY FADHILLAH](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-octavia-salwa-dzaky-fadhillah)
+- [AFIVA YUAZIJAH](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-afiva-yuazijah)
+- [GUNAWAN AJI MULYADI](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-gunawan-aji-mulyadi)
+- [JONATAN HUTAHAEAN](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-jonatan-hutahaean)
+- [M. RIO SULHAN ABDILLAH](https://github.com/praktikum-framework-web-5d-2022/5d-tugas-5-m-rio-sulhan-abdillah)
+
